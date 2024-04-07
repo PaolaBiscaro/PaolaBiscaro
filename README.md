@@ -5,11 +5,11 @@ Meu nome é Paola Biscaro e sou Desenvolvedora Full-Stack, estou caminhando e ev
 - 💻 Universitária, cursando atualmente Bacharelado em Ciências da Computação. 
 - 🎨 Gosto de trabalhar com projetos e acompanhar todo o seu processo criativo.
 - 🌱 Estou em busca de oportunidades de ingressar no mercado de trabalho!
-- 
-<div align="center">
-    <img  src="bannerReadmeDino.gif"  width="250px">
-</div>
 
+
+<div align="left">
+    <img  src="bannerReadmeDino.gif"  width="200px">
+</div>
 
 ### Focada em:
 <div style="display: inline">
@@ -18,7 +18,8 @@ Meu nome é Paola Biscaro e sou Desenvolvedora Full-Stack, estou caminhando e ev
     <img width="40px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img width="40px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />&nbsp;&nbsp;&nbsp;&nbsp;   
     <img width="40px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-</div>     
+</div> 
+
 
 ### Veja minhas redes sociais:
 <a href="https://www.linkedin.com/in/paola-biscaro"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
