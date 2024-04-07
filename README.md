@@ -6,7 +6,7 @@ Meu nome é Paola Biscaro e sou Desenvolvedora Full-Stack, estou caminhando e ev
 - 🎨 Gosto de trabalhar com projetos e acompanhar todo o seu processo criativo.
 - 🌱 Estou em busca de oportunidades de ingressar no mercado de trabalho!
 
-<img  src="bannerReadmeDino.gif"  width="300px">
+<img  src="bannerReadmeDino.gif"  width="200px">
 
 ## Focada em:
 <div style="display: inline">
