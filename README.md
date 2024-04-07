@@ -6,6 +6,8 @@ Meu nome é Paola Biscaro e sou Desenvolvedora Full-Stack, estou caminhando e ev
 - 🎨 Gosto de trabalhar com projetos e acompanhar todo o seu processo criativo.
 - 🌱 Estou em busca de oportunidades de ingressar no mercado de trabalho!
 
+<img  src="bannerReadmeDino.gif"  width="300px">
+
 ## Focada em:
 <div style="display: inline">
     <img width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -21,5 +23,5 @@ Meu nome é Paola Biscaro e sou Desenvolvedora Full-Stack, estou caminhando e ev
 <a href="https://www.instagram.com/paola.biscaro/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://gitlab.com/PaolaBiscaro"><img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white"></a>
 
-<img  src="bannerReadmeDino.gif"  width="300px">
+
 
