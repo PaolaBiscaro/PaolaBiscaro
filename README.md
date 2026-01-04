@@ -1,10 +1,10 @@
 ## Olá Mundo! 
 ### Sejam bem-vindos(a) ao meu portfólio! 
-Meu nome é Paola Biscaro e sou Desenvolvedora Full-Stack, estou caminhando e evoluindo no mundo da tecnologia aprendendo e desenvolvendo minhas Softskills e Hardskills.
+Meu nome é Paola Biscaro e sou Desenvolvedora Full Stack em formação, com foco em Engenharia de Software. Estou em constante evolução no mundo da tecnologia, desenvolvendo tanto hard skills quanto soft skills, sempre buscando aplicar boas práticas no desenvolvimento de software.
 &nbsp;
-- 💻 Universitária, cursando atualmente Bacharelado em Ciências da Computação. 
-- 🎨 Gosto de trabalhar com projetos e acompanhar todo o seu processo criativo.
-- 🌱 Estou em busca de oportunidades de ingressar no mercado de trabalho!
+- 💻 Universitária, cursando Bacharelado em Ciências da Computação. 
+- 🎨 Gosto de trabalhar com projetos e acompanhar todo o seu processo criativo, desde o levantamento de requisitos até a implementação.
+- 🌱 Estou em busca de oportunidades para ingressar no mercado de trabalho e continuar aprendendo na prática.
 
 <img  src="bannerReadmeDino.gif"  width="200px">
 
